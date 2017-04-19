@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CMSC436 - MS App - No Sheets</string>
+    <string name="title_activity_reactions">Reactions</string>
+    <string name="title_activity_level_start">LevelStart</string>
+</resources>
